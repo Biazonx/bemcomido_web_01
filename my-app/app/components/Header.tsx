@@ -11,6 +11,9 @@ export default function Header() {
         <button className={buttonStyle}>Top Receitas</button>
         <button className={buttonStyle}>Favoritos</button>
         <button className={buttonStyle}>Buscar Receitas</button>
+        <Link href="/about" className={buttonStyle}>
+          Sobre Nós
+        </Link>
       </div>
 
       {/* Coluna Central - LOGO COM LINK PARA HOME */}
