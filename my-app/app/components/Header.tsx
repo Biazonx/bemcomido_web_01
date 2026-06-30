@@ -14,6 +14,9 @@ export default function Header() {
         <Link href="/about" className={buttonStyle}>
           Sobre Nós
         </Link>
+        <Link href="/cardapio" className={buttonStyle}>
+          Cardápio
+        </Link>
       </div>
 
       {/* Coluna Central - LOGO COM LINK PARA HOME */}
