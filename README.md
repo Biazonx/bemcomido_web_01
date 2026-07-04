@@ -13,3 +13,7 @@
 # Sobre Nós
 
 <img width="1919" height="1079" alt="Captura de tela 2026-05-20 150504" src="https://github.com/user-attachments/assets/4a24d35d-cb1e-43a6-a8df-d2e301158884" />
+
+# Cardápio
+
+<img width="1919" height="906" alt="Captura de tela 2026-07-04 125032" src="https://github.com/user-attachments/assets/f4deed68-d7ec-4a67-ba73-53fb55c2f882" />
